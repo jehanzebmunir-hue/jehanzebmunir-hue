@@ -19,7 +19,7 @@ Building clinical AI tools used daily by Ontario physicians. Sole mobile develop
 ### Currently building
 
 - **AuraChart** — AI medical scribe (React Native / Expo) — 13+ specialty SOAP templates, billing codes, referral letters — [repo](https://github.com/uzairsalim02/AuraChart-Mobile)
-- **AuraTriage** — AI fax classification and EMR routing (React / TypeScript)
+- **AuraTriage** — AI fax classification and EMR routing (React / TypeScript) — [frontend](https://github.com/uzairsalim02/AI-Triage-Frontend) · [backend](https://github.com/waqassalman/AI-Triage-App)
 - **AuraQ** — Real-time multi-tenant clinic patient flow (GCP · Supabase Realtime · PostgreSQL)
 
 ---
